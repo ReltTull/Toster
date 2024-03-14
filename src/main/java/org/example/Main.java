@@ -6,6 +6,7 @@ public class Main {
     }
 
     public class Tos extends Object {
+        Unit zealot = new Unit(true, 100, 50);
 
     }
 }
